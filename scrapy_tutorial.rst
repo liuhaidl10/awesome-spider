@@ -4,6 +4,8 @@
 Scrapy入门教程
 ===============
 
+在线文档：https://doc.scrapy.org/en/latest/intro/tutorial.html
+
 在本篇教程中，我们假定您已经安装好Scrapy。
 如若不然，请参考 :ref:`intro-install` 。
 
